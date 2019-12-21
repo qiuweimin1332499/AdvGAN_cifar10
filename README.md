@@ -1,2 +1,1 @@
-# Designing-And-Developing-for-GIS
-A professional required course for the major of geographic information science. The course content is mainly for the development of WebGIS. The reference book is the development guide for ArcGIS API for JavaScript.
+This project code is forked . I have only made minor changes on this wonderful and clear project. Thanks for their perfect code. I can learn and apply it to a new problem.
